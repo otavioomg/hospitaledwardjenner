@@ -1,0 +1,41 @@
+header{
+    background-image:url(imagens/fundo.jpg);
+    width:100%;
+    height: 600px;
+}
+
+ h5{
+    color:greenyellow
+ }
+
+ h1{
+    font-size:65px;
+    padding-top: 100px;
+    padding-left: px;
+ }
+
+ .logo2 {
+    padding-top:100px;
+    padding-left:30%;
+ }
+
+ h4{
+    padding-left: 1050px;
+    color:greenyellow;
+    font-family: "DM Serif Text";
+ }
+
+ .dm-serif-text-regular {
+   font-family: "DM Serif Text", serif;
+   font-weight: 400;
+   font-style: normal;
+ }
+ 
+ .dm-serif-text-regular-italic {
+   font-family: "DM Serif Text", serif;
+   font-weight: 400;
+   font-style: italic;
+ }
+ 
+
+
