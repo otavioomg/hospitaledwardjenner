@@ -1,5 +1,5 @@
 header{
-    background-image:url(imagens/fundo.jpg);
+    background-image:url(imagens/fundohospital.png);
     width:100%;
     height: 600px;
 }
@@ -18,7 +18,6 @@ header{
     padding-top:100px;
     padding-left:30%;
  }
-
  h4{
     padding-left: 1050px;
     color:greenyellow;
@@ -36,6 +35,44 @@ header{
    font-weight: 400;
    font-style: italic;
  }
+ 
+ footer {
+   background-color: greenyellow;
+   padding: 50px;
+ }
+
+ .github {
+   opacity: 50%;
+   width: 35px;
+ }
+
+ .instagram {
+   opacity: 50%;
+   width: 25px;
+ }
+
+ .card-text {
+   font-size: 25px;
+ }
+ 
+ .card-title {
+   font-size: 35px;
+ }
+
+ .navbar-brand {
+    color:greenyellow;
+    font-family: "DM Serif Text";
+ }
+
+ h2{
+  color:greenyellow;
+  font-size:40px;
+ }
+
+ .logo{
+  width: 90%;
+ }
+
  
 
 

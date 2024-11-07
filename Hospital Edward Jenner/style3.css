@@ -1,0 +1,32 @@
+footer {
+    background-color: greenyellow;
+    padding: 50px;
+  }
+ 
+  .github {
+    opacity: 50%;
+    width: 35px;
+  }
+ 
+  .instagram {
+    opacity: 50%;
+    width: 25px;
+  }
+ 
+  .card-text {
+    font-size: 25px;
+  }
+  
+  .card-title {
+    font-size: 35px;
+  }
+ 
+  .navbar-brand {
+     color:greenyellow;
+     font-family: "DM Serif Text";
+  }
+ 
+  h2{
+   color:greenyellow;
+   font-size:40px;
+  }
