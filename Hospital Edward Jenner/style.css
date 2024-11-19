@@ -15,8 +15,7 @@ header{
  }
 
  .logo2 {
-    padding-top:100px;
-    padding-left:30%;
+    padding-top:-100px;
  }
  h4{
     padding-left: 1050px;
