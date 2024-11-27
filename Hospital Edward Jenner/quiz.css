@@ -72,6 +72,19 @@ header{
   width: 90%;
  }
 
- 
+ .introducao{
+  background-color: rgb(155, 155, 155);
+  border-color: antiquewhite;
+  border-radius: 50px;
+ }
+
+ .quiz{
+  text-align: center;
+  font-size: 20px;
+ }
+
+ tituloquiz {
+  font-size: 30px;
+ }
 
 
